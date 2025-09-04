@@ -12,7 +12,7 @@ A GUI-based tool designed to help children with speech delays practice and impro
 - PIL/Pillow (for image handling)
 ## Installation
 1. Clone the repo:
-   git clone https://github.com/your-username/speech-delay-helper.git
+   git clone https://github.com/fatimaaltaf1/speech-delay-helper.git
 2. Navigate to the project folder:
    cd speech-delay-helper
 3. Install dependencies:
